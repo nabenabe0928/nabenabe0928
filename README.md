@@ -1,6 +1,8 @@
 ### Hi there 👋 I'm Shuhei Watanabe
 
-I am a Master student at the University of Freiburg supervised by Prof. Frank Hutter and currently working on Hyperparameter optimization and the interpretation of its results.
+I am a Research Engineer at Preferred Networks Inc.
+Prior to the company, I was studying at the University of Freiburg under the supervision of Prof. Frank Hutter.
+My specialization lies in Hyperparameter optimization and the interpretation of its results.
 
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://nabenabe0928.github.io)
 
