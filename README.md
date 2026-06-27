@@ -1,8 +1,6 @@
-### Hi there 👋 I'm Shuhei Watanabe
+### Shuhei Watanabe: Bayesian Optimization & Robot Learning Researcher / Optuna Core Dev
 
-I am a Research Engineer at Preferred Networks Inc.
-Prior to the company, I was studying at the University of Freiburg under the supervision of Prof. Frank Hutter.
-My specialization lies in Hyperparameter optimization and the interpretation of its results.
+Robotics Senior Research Scientist at SB Intuitions Corp. Core Optuna developer specializing in Bayesian optimization, with 1,000+ citations on Google Scholar.
 
 [![Website - GH Pages](https://img.shields.io/badge/View_site-GH_Pages-2ea44f?style=for-the-badge&logo=Dark-Reader)](https://nabenabe0928.github.io)
 
